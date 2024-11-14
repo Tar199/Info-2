@@ -1,2 +1,3 @@
-# Info-2
-TRIBUTE PAGE
+# Info-2 - Tribute Page
+
+In the process of developing this Tribute page of Abhinandan Varthaman Sir, I've acquired valuable skills in structuring content with HTML and styling it using CSS. I've learned to create a responsive design that adapts to different screen sizes, integrate external resources like Google Fonts, and use semantic HTML elements for improved accessibility and SEO. Furthermore, I've successfully implemented functional links to external websites, enhancing the overall user experience. This project has been a hands-on learning journey in web development and design, providing me with essential knowledge and practical experience.
